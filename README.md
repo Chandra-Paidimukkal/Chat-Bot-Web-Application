@@ -63,6 +63,8 @@ The chatbot uses a combination of:
 - `src/data/`: Extracted documentation data
 - `scripts/`: Data extraction scripts
 
+LINK: https://sprightly-semifreddo-0d8b21.netlify.app/
+
 ScreenShots
 
 ![Screenshot 2025-03-01 212916](https://github.com/user-attachments/assets/31f89270-9330-4fcf-9e79-7b8789f5c7bc)
