@@ -1,5 +1,6 @@
 # Chat-Bot-Web-Application
 Support Agent Chatbot for CDP
+Developed a chatbot that can answer "how-to" questions related to four Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap. The chatbot should be able to extract relevant information from the official documentation of these CDPs to guide users on how to perform tasks or achieve specific outcomes within each platform.
 # CDP Support Agent Chatbot
 
 A chatbot that answers "how-to" questions related to four Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap.
